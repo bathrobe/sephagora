@@ -1,5 +1,5 @@
 ---
-title: Cybernetics Wiki
+title: Cybernetics-Wiki
 date_created: 2021-01-04
 last_updated:
 tags: [type/literature/wiki]
